@@ -1,2 +1,2 @@
 # hello-world
-this my fist readme.md file
+this is my fist readme.md file
